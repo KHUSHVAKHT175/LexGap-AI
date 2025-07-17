@@ -1,0 +1,4 @@
+.env
+github token.txt
+__pycache__/
+*.pyc
